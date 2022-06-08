@@ -720,4 +720,10 @@ footer {
     .modal__half {
         padding: 40px;
     }
+    .modal {
+        height: 1062px;
+    }
+    .shape {
+        display: none;
+    }
 }

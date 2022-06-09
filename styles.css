@@ -154,13 +154,21 @@ input:focus, textarea:focus {
 .dark-theme .header__para,
 .dark-theme .modal__title--about,
 .dark-theme .modal__para,
-.dark-theme .modal__sub-title--about {
+.dark-theme .modal__sub-title--about,
+.dark-theme .language__name {
     color: white;
+}
+
+.dark-theme .form__submit:hover {
+    border-color: #242424;
+    background-color: transparent;
+    color: #242424;
 }
 
 .dark-theme .modal__title--contact,
 .dark-theme .modal__sub-title--contact,
-.dark-theme .form__item--label {
+.dark-theme .form__item--label,
+.dark-theme .modal__exit {
     color: #242424;
 }
 
